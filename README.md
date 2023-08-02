@@ -1,5 +1,12 @@
 ## OLÁ, eu sou o Victor Rian. Sejam bem vindos ao meu GitHub 🤠👋
 
+🤠 - Victor Rian Cruz dos Santos
+🎈 - 18y
+🌃 - Santos(SP)
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
